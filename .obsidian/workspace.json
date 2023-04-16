@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -128,13 +128,20 @@
                 "file": "Moritz Schütz/HyEnD/Meetings/Meeting 13.04.md"
               }
             }
+          },
+          {
+            "id": "1a009b39a97512a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +156,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c354ab0a67bda0a2",
+  "active": "0799eaba15bc2b73",
   "lastOpenFiles": [
     "Moritz Schütz/HyEnD/Dokumentation/X-Winder Dokumentation.md",
     "Moritz Schütz/HyEnD/Dokumentation/Wickelmaschine Dokumentation.md",
