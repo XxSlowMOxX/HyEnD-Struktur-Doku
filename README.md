@@ -1,2 +1,4 @@
 # HyEnD-Struktur-Doku
- Die Dokumentation der HyEnD Struktur
+
+Hier kommt die Dokumentation der STERN IV Struktur rein.
+
