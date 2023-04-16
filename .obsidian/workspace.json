@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0eb5c99f9e13d9cf",
+        "id": "2f1a182e23406ad7",
         "type": "tabs",
         "children": [
           {
-            "id": "05b4c6906b23edd8",
+            "id": "c354ab0a67bda0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Moritz Schütz/HyEnD/Meetings/Meeting 13.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Moritz Schütz/HyEnD/Meetings/Meeting 13.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Moritz Schütz/HyEnD/Meetings/Meeting 13.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Moritz Schütz/HyEnD/Meetings/Meeting 13.04.md"
               }
             }
           }
@@ -149,8 +149,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05b4c6906b23edd8",
+  "active": "c354ab0a67bda0a2",
   "lastOpenFiles": [
+    "Moritz Schütz/HyEnD/Dokumentation/X-Winder Dokumentation.md",
+    "Moritz Schütz/HyEnD/Dokumentation/Wickelmaschine Dokumentation.md",
+    "Moritz Schütz/HyEnD/Dokumentation/Fin Can Dokumentation.md",
+    "Moritz Schütz/HyEnD/Dokumentation/Faserverbund Auslegungs Dokumentation.md",
+    "README.md",
     "Moritz Schütz/HyEnD/SternIV/STERN IV Tasks.md",
     "Moritz Schütz/HyEnD/SternIV/Weight Estimation Tanks Stern IV.md",
     "Moritz Schütz/HyEnD/HyVester/HyVester 2-G TODO.md"
