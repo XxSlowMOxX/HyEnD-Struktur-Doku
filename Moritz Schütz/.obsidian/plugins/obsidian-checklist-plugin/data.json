@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "HyEnD/HyVester/HyVester 2-G TODO.md",
+    "HyEnD/HyDra/HyDra Struktur Post Flight Analyse.md",
+    "HyEnD/HyVester/HyVester 1-U TODO.md"
+  ],
+  "_hiddenTags": []
+}

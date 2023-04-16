@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "4e2b13d53ba2bf8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "deefb8563c93e76f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5837bc781853d81e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "462bc4a61ac8c99e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7411b19c9e72e3e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e83e6907cd5f08c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39c93691bebd9c7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6a846222b462c30",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dd673c617e22f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d467b9f59b8756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93106b751854c061",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ad3dd234d5f7dea6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00f54250a79fb31f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e406f271abdeae6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "08a2b018e549f757",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0215052656844f5c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6fd3ab76ea3fb77",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "5837bc781853d81e",
+  "lastOpenFiles": [
+    "HyEnD/Meetings/Meeting 13.04.md",
+    "HyEnD/Meetings/Meeting 05.02.md",
+    "HyEnD/Meetings",
+    "HyEnD/SternIV/Rocketry Paper Notizen.md",
+    "HyEnD/SternIV/Rocketry Paper Section Nosecone.md",
+    "Bilder/4-axis screenshot.png",
+    "Bilder/ReRE0049560 HyEnd.pdf",
+    "Log/13.01.2023 Log.md",
+    "KIT/SRT/Inverted Classroom Mitschrieb.md",
+    "HyEnD/SternIV/Wickelmaschine Upgrade.md",
+    "HyEnD/SternIV/Weight Estimation Tanks Stern IV.md",
+    "HyEnD/SternIV/Sturktur Meeting.md",
+    "HyEnD/SternIV/STERN IV Tasks.md",
+    "HyEnD/SternIV/STERN IV Budgetspaß.md",
+    "HyEnD/HyDra/HyDra Struktur Post Flight Analyse.md",
+    "HyEnD/HyDra/Hydra SRAD Flight Computer Data Analysis.md",
+    "HyEnD/HyDra/HyDra Post Flight Analysis.md",
+    "HyEnD/HyVester/HyVester 2-G TODO.md",
+    "HyEnD/HyVester/HyVester 1-U TODO.md",
+    "HyEnD/Dokumentation/Fin Can Dokumentation.md",
+    "HyEnD/Dokumentation/Wickelmaschine Dokumentation.md",
+    "HyEnD/SternIV/ActiveAero/Machbarkeitsstudie Aktive Aerodynamik für Stern IV Projekt.md",
+    "HyEnD/SternIV/Dokumentation/X-Winder Dokumentation.md",
+    "Bilder/Pasted image 20230413221020.png",
+    "HyEnD/SternIV/STERN IV Structural System Description and Research Intentions.md",
+    "2023-04-13.md",
+    "HyEnD/SternIV/STERN IV Struktur Lessons Learned from HyDra.md",
+    "HyEnD/SternIV/STERN IV Struktur Budgetabschätzung.md",
+    "HyEnD/SternIV/LOX Compatibility Tests/ASTM G86-17 Overview.md",
+    "HyEnD/SternIV/LOX Compatibility Tests/Canvas Test.canvas",
+    "HyEnD/SternIV/LOX Compatibility Tests",
+    "Weight Estimation Tanks Stern IV.pdf",
+    "STERN IV Budgetspaß.pdf",
+    "STERN IV Structural System Description and Research Intentions.pdf"
+  ]
+}
